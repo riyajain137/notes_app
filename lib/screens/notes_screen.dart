@@ -100,7 +100,7 @@ class _NotesScreenState extends State<NotesScreen> {
         title: const Text(
           'Notes',
           style: TextStyle(
-            color: Colors.blue,
+            color: Colors.white,
             fontSize: 28,
             fontWeight: FontWeight.w500,
           ),
